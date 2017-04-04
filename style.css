@@ -1,0 +1,18 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+}
+table tr:nth-child(even) {
+    background-color: steelblue;
+    
+}
+table tr:nth-child(odd) {
+    background-color: cyan;
+}
+table th {
+    background-color: darkcyan
+} 
+th,td{
+padding:20px;    
+}
